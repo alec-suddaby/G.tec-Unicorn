@@ -1,0 +1,17 @@
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/bin/Debug/net9.0/UnicornTesting
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/bin/Debug/net9.0/UnicornTesting.deps.json
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/bin/Debug/net9.0/UnicornTesting.runtimeconfig.json
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/bin/Debug/net9.0/UnicornTesting.dll
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/bin/Debug/net9.0/UnicornTesting.pdb
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/bin/Debug/net9.0/brainflow.dll
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/obj/Debug/net9.0/UnicornTesting.csproj.AssemblyReference.cache
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/obj/Debug/net9.0/UnicornTesting.GeneratedMSBuildEditorConfig.editorconfig
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/obj/Debug/net9.0/UnicornTesting.AssemblyInfoInputs.cache
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/obj/Debug/net9.0/UnicornTesting.AssemblyInfo.cs
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/obj/Debug/net9.0/UnicornTesting.csproj.CoreCompileInputs.cache
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/obj/Debug/net9.0/UnicornT.B3B549A8.Up2Date
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/obj/Debug/net9.0/UnicornTesting.dll
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/obj/Debug/net9.0/refint/UnicornTesting.dll
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/obj/Debug/net9.0/UnicornTesting.pdb
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/obj/Debug/net9.0/UnicornTesting.genruntimeconfig.cache
+/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/obj/Debug/net9.0/ref/UnicornTesting.dll

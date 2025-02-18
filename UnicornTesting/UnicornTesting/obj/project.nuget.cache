@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P0OVcNNgnYs=",
+  "success": true,
+  "projectFilePath": "/home/alec/Documents/G.tec Unicorn Testing/UnicornTesting/UnicornTesting/UnicornTesting.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/brainflow/5.16.0/brainflow.5.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}
