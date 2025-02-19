@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnicornTesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+677756eb44e3b87f17bfbc175236db58e702aad0")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnicornTesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnicornTesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
